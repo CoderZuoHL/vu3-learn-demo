@@ -1,6 +1,11 @@
 <template>
   <button @click="count">click</button>
   <div>1234567890</div>
+  <div>1234567890</div>
+  <div>1234567890</div>
+  <div>1234567890</div>
+  <div>1234567890</div>
+
 </template>
 
 <script setup>
