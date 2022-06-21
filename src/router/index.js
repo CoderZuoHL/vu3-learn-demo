@@ -6,7 +6,8 @@ const routes = [
     path:'/',
     name:'home',
     component:home
-  }
+  },
+  
 ]
 
 const router = createRouter({
